@@ -1,8 +1,6 @@
 def is_negative(num)
-    return false
-    if num < 0 
-        return true
-    end
+    
+    return num < 0 
 end
 
 def is_even(num)
@@ -19,3 +17,12 @@ def absolute(num)
     end
     return num
 end
+
+def between(num1, num2, num3)
+    if num1 >= num2 && num1 <= num3
+        return true
+    else
+        return false
+    end
+end
+
