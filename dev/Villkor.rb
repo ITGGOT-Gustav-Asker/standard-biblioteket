@@ -13,4 +13,9 @@ def is_odd(num)
     return(num % 2) == 1
 end
 
-def()
+def absolute(num)
+    if num < 0
+        num = num * -1
+    end
+    return num
+end
