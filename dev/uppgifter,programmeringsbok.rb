@@ -6,3 +6,7 @@ def square_(num)
     return num ** num 
 end
 
+def cube(num)
+    return num ** num * num
+end
+
