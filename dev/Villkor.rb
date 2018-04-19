@@ -6,5 +6,11 @@ def is_negative(num)
 end
 
 def is_even(num)
-    return(number % 2) == 0
+    return(num % 2) == 0
 end
+
+def is_odd(num)
+    return(num % 2) == 1
+end
+
+def()
