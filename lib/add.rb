@@ -4,7 +4,7 @@
 #
 #term2 = the number who will be added to the first number
 #
-#example 3 + 4 
+#example: 3 + 4 
 # => 7
 # Returns number added together.
 
