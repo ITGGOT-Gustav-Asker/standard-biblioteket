@@ -1,4 +1,4 @@
-#Public: Figures out which number out of three, which is the smallest. 
+#Public: Figures out which number out of three, who is the smallest. 
 #
 #min = the variable who we guess is minimal and if not, changes to the smallest number.
 #num2 = the number we compare with
